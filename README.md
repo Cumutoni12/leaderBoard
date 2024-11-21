@@ -34,7 +34,6 @@ Linters Installed
 ## Getting Started
 
 -### Setup
-- clone 'https://github.com/Kaweesi-Matia/Leader_Board.git'
 - Setup Linters by running following commands in your terminal:
 
 - npm install --save-dev stylelint@13.x stylelint-scss@3.x - - - stylelint-config-standard@21.x stylelint-csstree-validator@1.x (Install the StyleHint linters)
@@ -62,18 +61,11 @@ Linters Installed
 - Webpack
 - Webpack Server
 
-
-### Deployment
-- [Linter](https://github.com/microverseinc/linters-config/tree/master/html-css)
-
-
 ## Author
 
-👤 **Kaweesi Matia**
+👤 **Clarisse Umutoni**
 
-- GitHub: [@Kaweesi-Matia](https://github.com/Kaweesi-Matia)
-- Twitter: [@kaweesimatia](https://twitter.com/kaweesimatia)
-- LinkedIn: [Kaweesi Matia](https://www.linkedin.com/in/kaweesi-matia/)
+- GitHub: [@Clarisse Umutoni](https://github.com/Kaweesi-Matia)
 
 ## 🤝 Contributing
 
@@ -87,10 +79,4 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- microverseinc
-- Inspiration
-- etc
-
-## 📝 License
-https://github.com/Kaweesi-Matia/Leaderboard-Project/blob/main/LICENSE.md
-This project is [MIT](./MIT.md) licensed.
+- VeroSkills
