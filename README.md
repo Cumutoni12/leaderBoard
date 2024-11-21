@@ -67,7 +67,7 @@ Linters Installed
 
 👤 **Clarisse Umutoni**
 
-- GitHub: [@Clarisse Umutoni](https://github.com/Kaweesi-Matia)
+- GitHub: [@Clarisse Umutoni](https://github.com/Cumutoni12)
 
 ## 🤝 Contributing
 
